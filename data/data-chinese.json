@@ -1,0 +1,77 @@
+[
+  {"publicTitle":{"home":"网站首页","about":"关于我们","portfolio":"已投项目","team":"团队简介","contact":"联系我们","language":"语言："},
+    "national":{"title":"中文","src":"img/cn.png"}},
+  {"about":{"aboutTitle":"About","aboutText":"丹华资本成立于2013年,“丹”取之于斯坦福，“华”取之于中华，意在成为中国连接世界创新创业的发源地——斯坦福大学和硅谷的高速桥梁。以斯坦福和硅谷为核心，丹华资本专注于投资美国最具颠覆性和影响力的科技成果和商业创新。我们寻求拥有创新性技术或商业模式、优秀的团队和广阔的市场空间的高科技创业公司。我们关注的投资领域涵盖人工智能、虚拟/增强现实、大数据、区块链、企业级应用等具有颠覆性的新兴技术。投资阶段主要为早期以及成长期。我们拥有一支专业的投资团队。基金的两位创始合伙人有着超过10年的合作经验，他们将扎实的投资经验、创业经验、学术研究以及硅谷和中国两地的广阔关系网进行资源整合，形成了丹华资本的独特优势。 中国市场是全球第二大且增长最快的市场，是众多企业争相进入开拓的新兴市场。基于众多国内一流投资机构和战略合作企业的支持，我们不但能为创业者提供资金和管理支持，更能提供中国与美国的产业资源，和创业者共同打造世界级的高科技公司。"}},
+  {
+    "team": [
+      {
+        "name": "杨文涛  基金创始人  GP",
+        "position": "北京大学理学士、经济学士，美国JHU金融硕士学位，前美国Morgan Stanley Wealth Management融分析师。2016年年曾负责NEO项⽬global community，Onchain分布科技联合创始人，本体络合作伙伴拓展总监，区块链战略研究院发起人，北京大学区块链协会发起人，区块链行业资源深厚。个人区块链领域投资收益率超过6000%。"
+      },
+      {
+        "name": "李岩  基金联合创始人  GP",
+        "position": "北京大学理学博士，工业和信息化部高级研究员，区块链政策咨询专家。中国区块链战略研究院发起人，北京大学区块链协会发起人，政府及区块链业界资源丰富，曾参与编写区块链技术前沿趋势报告并提及区块链行业相关政策监管建议。"
+      },
+      {
+        "name": "李金鑫  基金联合创始人  GP",
+        "position": "中央财经大学金融学博士，前国泰君安首席区块链分析师。HPB芯链联合创始人，负责HPB的战略和投资。Bibox交易所第⼀做市商，负责Bibox的作市策略优化和衍生产品设计。国内首批以太坊投资人及矿工，两年时间参与多个数字资产项⽬目投资，年化组合收益达5000%。"
+      },
+      {
+        "name": "杨少彬  基金联合创始人  GP",
+        "position": "技术专家，北方交通大学应用物理学士、北京大学MBA。杨少彬先生是中国互联网与金融行业的资深从业者，曾先后担任新浪财经技术经理、金融界网站技术总监、中科招商集团高级副总裁兼网络业务中心总经理，并多年从事数字资产投资及区块链技术研究。精通股票交易、基金、互联网借贷等系统，在技术管理、金融产品研发、股权投资和基金管理等领域有着丰富的经验。"
+      }
+    ]
+  },
+  {"portfolioList": [
+    {
+      "text": [
+        {
+          "src": "img/s1.png",
+          "text": "团队技术实力过硬，能够从代码和商业层面对具体项目作出科学评估，精选优质项目。",
+          "href": "http://https://www.metavision.com/",
+          "title": "价值投资",
+          "alt": "https://www.metavision.com/"
+        },
+        {
+          "src": "img/s2.png",
+          "text": "保持不低于一定比例的资金用来投资海外团队，以求规避短期政策风险。",
+          "href": "http://optimizely.com",
+          "title": "全球配置",
+          "alt": "optimizely.com"
+        },
+        {
+          "src": "img/s3.png",
+          "text": "通过大势研判，择机买入二级市场优质项目，与 ICO项目投资并行，优化市场波动风险与退出风险，最大化投资收益",
+          "href": "http://cohesity.com/",
+          "title": "一二级市场并行",
+          "alt": "cohesity.com/"
+        },
+        {
+          "src": "img/s4.png",
+          "text": "依托于团队广泛的校友资源，以及在区块链行业内两年以上的精耕细作，获取优质项目投资份额极有竞争力。",
+          "href": "http://everstring.com",
+          "title": "业内资源广泛",
+          "alt": "everstring.com"
+        }
+      ]
+    },
+    {
+      "text":[
+        {"src":"img/s1.png","text":"Hurrican Fund以美元为计价单位，以美元作为收益计算单位，初始计划规模800万美元。","href":"http://survios.com","title":"Survios","alt":"survios.com"},
+        {"src":"img/s3.png","text":"管理团队按年提取总资产的0.5%作为管理费，赎回清算时对利润提取25%作为绩效提成。基金无利润或亏损则无绩效提成。","href":"http://lytro.com","title":"Lytro","alt":"lytro.com"},
+        {"src":"img/s4.png","text":"第⼀期基⾦产品“飓风1号”期限2+1年，基金项目投资决策通报LP，并每季度向LP发布 收益与资产配置情况总结。","href":"http://https://www.barefootnetworks.com/","title":"Barefoot Networks","alt":"https://www.barefootnetworks.com/"},
+        {"src":"img/s1.png","text":"基⾦资产将由GP共同管理，对Token实⾏多重签名，投资流水向LP公开地址。","href":"http://qeexo.com","title":"Qeexo","alt":"qeexo.com"},
+        {"src":"img/s2.png","text":"投资决策实行一票否决制，保障投资项目的质量。","href":"http://https://www.chariot.com/","title":"Chariot","alt":"https://www.chariot.com/"}
+      ]
+    },
+    {
+      "text": [
+        {"src":"img/s3.png","text":"Hurrican Fund是高风险基金，不承诺回报、不保证本金、历史收益不代表未来。参与前请谨慎考量自身风险承受能力。","href":"http://graphsql.com","title":"GraphSQL","alt":"graphsql.com"},
+        {"src":"img/s4.png","text":"初始计划规模800万美元，接受美元与USDT。进制任何形式代投","href":"http://zenreach.com","title":"Zenreach","alt":"zenreach.com"},
+        {"src":"img/s1.png","text":"20万美元起投，LP投资认购⾦额为不得超过⾃身总资产的10%","href":"http://trustlook.com","title":"Trustlook","alt":"trustlook.com"},
+        {"src":"img/s2.png","text":"团队认购基金份额的10%","href":"http://flirtey.com","title":"Flirtey","alt":"flirtey.com"}
+      ]
+    }
+  ]
+  }
+]

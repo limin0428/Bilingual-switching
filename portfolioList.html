@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>portfolioList</title>
+  <link rel="stylesheet" href="./css/animate.css">
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body
+    class="page page-id-502 page-template page-template-templates page-template-staff page-template-templatesstaff-php responsive-layout header-side-by-side">
+<div id="wrap">
+  <div id="header-wrap"
+       class="clr side-by-side fixed-header shrinking default ">
+    <header id="header" class="site-header clr container" role="banner">
+      <div id="logo" class="clr">
+        <h2>
+          <a href="/?lang=en" title="Danhua Capital"
+             rel="home"><img
+              src="img/LOGO-Chinese-English-new.png"
+              alt=""/></a>
+        </h2>
+      </div>
+      <div id="sidr-close">
+        <a href="#sidr-close" class="toggle-sidr-close"></a>
+      </div>
+      <div id="site-navigation-wrap">
+        <a href="#sidr-main" id="navigation-toggle"><span
+            class="fa fa-bars"></span></a>
+        <nav id="site-navigation" class="navigation main-navigation clr"
+             role="navigation">
+          <div class="menu-zonya-menu-container">
+            <ul id="menu-zonya-menu" class="dropdown-menu sf-menu menu-right">
+            </ul>
+          </div>
+        </nav>
+        <!-- #site-navigation -->
+      </div>
+      <!-- #site-navigation-wrap -->
+    </header>
+    <!-- #header -->
+  </div>
+  <!-- #header-wrap -->
+  <div id="container-wrap">
+    <div id="main" class="site-main clr container">
+      <div id="primary" class="content-area clr">
+        <div class="row">
+          <div id="content" class="site-content col-md-12 fullwidth"
+               role="main">
+            <div class="entry clr">
+              <div class="section ">
+                <div class='row' id="portfolio-id"
+                     style='padding-top:0px; padding-bottom:64px; padding-left: 0px; padding-right: 0px;'>
+                  <!--<div class="">
+                    <div class='element-container element-title' style="margin:20px 0px 36px">
+                      &lt;!&ndash;<h2 class="heading  h1 text-center">Team</h2>&ndash;&gt;
+                      <img src="img/s6.png" alt="" id="portfolio-list-img" style="display: block;margin: auto;">
+                    </div>
+                    <div style="text-align: center">WebSite：<a href=""></a></div>
+                    <p style="text-align: center;margin-bottom:12px;">A/B测试的全球领先企业，提供基于云的简单易用的解决方案，帮助企业客户优化网站、移动应用等电子渠道，提高用户转化率和活跃度。非技术人员也可以轻松上手，提高了可用性和更广大市场的接受度，在网站优化领域市场份额第一。</p>
+                  </div>-->
+                </div>
+              </div>
+            </div>
+            <!-- .entry -->
+            <!-- #staff-wrap -->
+          </div>
+          <!-- #content -->
+
+        </div>
+      </div>
+      <!-- #primary -->
+    </div>
+    <!-- #main-content -->
+  </div>
+  <!-- #container-wrap -->
+  <div id="footer-wrap" class="site-footer clr">
+    <div id="footer" class="clr container"></div>
+    <!-- #footer -->
+  </div>
+  <!-- #footer-wrap -->
+  <footer id="copyright-wrap" class="clear">
+    <div id="copyright" role="contentinfo" class="container">
+      <div class="row">
+        <div class="col-md-12">© All Rights Reserved</div>
+      </div>
+    </div>
+    <!-- #copyright -->
+  </footer>
+  <!-- #footer-wrap -->
+</div>
+<!-- #wrap -->
+</body>
+</html>
+<script type='text/javascript' src='js/jquery.js'></script>
+<script type='text/javascript' src='js/global.js'></script>
+<script type='text/javascript' src='js/plugins.js'></script>
+<script type="text/javascript" src="js/json2.js"></script>
+<script src="js/public.js"></script>
+<script>
+  var isChange = null;
+  if (localStorage.getItem('data')) {
+    isChange = JSON.parse(localStorage.getItem('data'));
+  }
+  if (isChange !== null) {
+    public.publicTitle(isChange[0]);
+    isId=Number(localStorage.getItem('id'));
+    isIndex=Number(localStorage.getItem('isIndex'));
+    public.getPortfolio(isChange[3].portfolioList[isIndex].text,isId)
+  };
+</script>

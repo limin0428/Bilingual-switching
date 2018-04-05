@@ -1,0 +1,65 @@
+[
+  {"publicTitle":{"home":"HOME","about":"ABOUT","portfolio":"PORTFOLIO","team":"TEAM","contact":"CONTACT","language":"LANGUAGE："},"national":{"title":"English","src":"img/us.png"}
+  },
+  {"about":{"aboutTitle":"About","aboutText":"DHVC is a VC fund that invests primarily in early stage and growth stage company with disruptive technology/business model, big market and excellent team. The fund's areas of focus include Artificial Intelligence, AR/VR, Big Data, Blockchain, Enterprise Software and other disruptive technologies. DHVC has a professional investment team with exceptional academic, industry and investment background. The founding team has been working together for over 10 years. They bring together a unique combination of education/research/entrepreneurship/capital market, extensive network in both Silicon Valley and China, and in-depth knowledge in cutting-edge technologies. Backed by top-notch institutional and strategic partners, DHVC aims to provide startup companies with a wide range of resources to achieve greater success on a global scale."}},
+  {"team":
+  [
+    {"name":"Shoucheng Zhang","position":"Founding Chairman"},
+    {"name":"Andrew Gu","position":"Founding Partner"},
+    {"name":"Rachel Wan","position":"Director"},
+    {"name":"Dovey Wan","position":"Managing Director"}
+  ]
+  },
+  {"portfolioList": [
+    {
+      "text": [
+        {
+          "src": "img/s1.png",
+          "text": "团队技术实力过硬，能够从代码和商业层面对具体项目作出科学评估，精选优质项目。",
+          "href": "http://https://www.metavision.com/",
+          "title": "价值投资",
+          "alt": "https://www.metavision.com/"
+        },
+        {
+          "src": "img/s2.png",
+          "text": "保持不低于一定比例的资金用来投资海外团队，以求规避短期政策风险。",
+          "href": "http://optimizely.com",
+          "title": "全球配置",
+          "alt": "optimizely.com"
+        },
+        {
+          "src": "img/s3.png",
+          "text": "通过大势研判，择机买入二级市场优质项目，与 ICO项目投资并行，优化市场波动风险与退出风险，最大化投资收益",
+          "href": "http://cohesity.com/",
+          "title": "一二级市场并行",
+          "alt": "cohesity.com/"
+        },
+        {
+          "src": "img/s4.png",
+          "text": "依托于团队广泛的校友资源，以及在区块链行业内两年以上的精耕细作，获取优质项目投资份额极有竞争力。",
+          "href": "http://everstring.com",
+          "title": "业内资源广泛",
+          "alt": "everstring.com"
+        }
+      ]
+    },
+    {
+      "text":[
+        {"src":"img/s1.png","text":"Hurrican Fund以美元为计价单位，以美元作为收益计算单位，初始计划规模800万美元。","href":"http://survios.com","title":"Survios","alt":"survios.com"},
+        {"src":"img/s3.png","text":"管理团队按年提取总资产的0.5%作为管理费，赎回清算时对利润提取25%作为绩效提成。基金无利润或亏损则无绩效提成。","href":"http://lytro.com","title":"Lytro","alt":"lytro.com"},
+        {"src":"img/s4.png","text":"第⼀期基⾦产品“飓风1号”期限2+1年，基金项目投资决策通报LP，并每季度向LP发布 收益与资产配置情况总结。","href":"http://https://www.barefootnetworks.com/","title":"Barefoot Networks","alt":"https://www.barefootnetworks.com/"},
+        {"src":"img/s1.png","text":"基⾦资产将由GP共同管理，对Token实⾏多重签名，投资流水向LP公开地址。","href":"http://qeexo.com","title":"Qeexo","alt":"qeexo.com"},
+        {"src":"img/s2.png","text":"投资决策实行一票否决制，保障投资项目的质量。","href":"http://https://www.chariot.com/","title":"Chariot","alt":"https://www.chariot.com/"}
+      ]
+    },
+    {
+      "text": [
+        {"src":"img/s3.png","text":"Hurrican Fund是高风险基金，不承诺回报、不保证本金、历史收益不代表未来。参与前请谨慎考量自身风险承受能力。","href":"http://graphsql.com","title":"GraphSQL","alt":"graphsql.com"},
+        {"src":"img/s4.png","text":"初始计划规模800万美元，接受美元与USDT。进制任何形式代投","href":"http://zenreach.com","title":"Zenreach","alt":"zenreach.com"},
+        {"src":"img/s1.png","text":"20万美元起投，LP投资认购⾦额为不得超过⾃身总资产的10%","href":"http://trustlook.com","title":"Trustlook","alt":"trustlook.com"},
+        {"src":"img/s2.png","text":"团队认购基金份额的10%","href":"http://flirtey.com","title":"Flirtey","alt":"flirtey.com"}
+      ]
+    }
+  ]
+  }
+]

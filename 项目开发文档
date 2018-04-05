@@ -1,0 +1,28 @@
+##项目开发文档
+1.json2.js
+2.public.js
+3.html内部js
+
+###1.json2.js
+导入json2.js，使得数据可以无兼容性的进行序列化和反序列化
+
+###2.public.js
+利用单例模式，返回如下方法：
+1.getData(url)           :用来控制读取不同的json文件，从而实现数据(多语种)的切换
+2.publicTitle(data)      :用来动态控制公共导航的内容
+3.teamText(data)         :用来动态控制Team页面的内容
+4.aboutText(data)        :用来动态控制About页面的内容
+5.portfolioText(data)    :用来动态控制Portfolio页面的内容
+6.getPortfolio(data,i)   :用来动态控制PortfolioList页面的内容
+
+###3.html内部js
+获取当前语种数据，从而加载页面
+
+##数据传递
+利用localStorage来实现多页面数据的传递
+
+##变量解析
+1.isMount     :是否已加载过数据==>初始状态为null,数据加载过为'true'
+2.isId        :判断portfolioList页面的id值(index值)==>控制数据
+3.isChange    :当前语种的数据==>所有页面按照当前语种加载
+4.isIndex     :判断portfolio页面部分的模块值==>分类控制
